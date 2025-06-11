@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Byung Hyung Kim (김병형)
+# 👋 Byung Hyung Kim (김병형)
 
 I am an Assistant Professor in the Department of Artificial Intelligence at Inha University, where I lead the [Affective Artificial Intelligence (AFFCTIV) Lab](https://affctiv.ai). My research lies at the intersection of brain-computer interfaces, affective computing, and deep learning, with a particular focus on understanding and modeling human cognitive and emotional states using multimodal biosignals such as EEG, fNIRS, and facial expressions.
 
