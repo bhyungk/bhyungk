@@ -13,7 +13,7 @@ In our lab, we explore novel AI models that are not only effective but also emot
 
 🌐 **AFFCTIV Lab**
 - Lab Website: [https://affctiv.ai](https://affctiv.ai)  
-- GitHub Organization: [https://github.com/affctiv](https://github.com/affctiv)  
+- GitHub Organization: [https://github.com/affctivai](https://github.com/affctivai)  
 
 📫 **Contact**
 If you're passionate about AI that understands the human mind and emotion, feel free to explore our work or reach out!
